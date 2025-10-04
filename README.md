@@ -1,24 +1,24 @@
 ### Hi there 👋 I'm Aouatef  
-#### Data Analyst | Python Developer | Carbon Market Enthusiast  
+#### Data Associate Researcher | Carbon Market  
 
-💡 Passionate about transforming complex data into actionable insights — especially in the **carbon market** and **nature-based projects** sector.  
-🌱 Currently working in **London**, driving data-driven innovation in sustainability and climate impact analytics.  
+💡 Passionate about transforming complex data into meaningful insights that drive better decisions for sustainability and climate action.  
+🌱 Currently working in **London**, leading data-driven innovation in **carbon markets** and **climate impact analytics**.  
+🌿 Deeply passionate about **nature-based projects** and their role in shaping a sustainable future.  
 
 ---
 
 ### 🧠 What I Do
-- 📊 **Data Analysis & Visualization** – turning raw carbon data into clarity  
-- 🐍 **Python Development** – automation, APIs, and clean pipelines  
-- 🌿 **Nature-Based Projects** – tracking and analyzing climate-positive projects  
-- 🧾 **SQL & Databases** – organizing and structuring registry and emissions data  
-- ⚙️ **JavaScript / React** – creating intuitive data tools and dashboards  
+- 📊 **Data Analysis & Visualization** – transforming carbon and climate data into clarity  
+- 🐍 **Python Development** – automation, APIs, and smart data pipelines  
+- 🧾 **SQL & Databases** – structuring and managing complex datasets  
+- ⚙️ **JavaScript / React** – building user-friendly tools and dashboards  
 
 ---
 
 ### 🔧 Tech Stack  
 💻 **Languages:** Python, JavaScript, SQL  
 📊 **Tools:** Power BI, Pandas, FastAPI, Excel, Git  
-🌍 **Focus Areas:** Carbon Markets, Data Pipelines, Nature-Based Solutions  
+🌍 **Focus Areas:** Carbon Markets, Data Pipelines, Climate Analytics  
 
 ---
 
